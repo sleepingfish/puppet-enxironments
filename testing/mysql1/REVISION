@@ -1,0 +1,4 @@
+module: puppetlabs/mysql
+version: 0.5.0
+url: file:///var/lib/puppet/puppet-module/cache/http_forge_puppetlabs_com-75a31f1d6f1ef6eb63b4479b3512ee1508209a7f/puppetlabs-mysql-0.5.0.tar.gz
+installed: Fri Oct 12 10:02:15 +0800 2012

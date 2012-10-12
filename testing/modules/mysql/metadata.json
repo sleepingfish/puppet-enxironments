@@ -1,0 +1,29 @@
+{
+  "project_page": "UNKNOWN",
+  "license": "UNKNOWN",
+  "version": "0.0.1",
+  "source": "UNKNOWN",
+  "checksums": {
+    "templates/my.cnf.erb": "56bdf7a4a6ba87a85280b9cbbb1a8d7f",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "Modulefile": "53b564aa7f5680e46d78101051dfa7c0",
+    "manifests/init.pp": "a82106566af68809dcdc89a037226cbf",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "manifests/service.pp": "e485d0c0f296a1e176fe2aa126530629",
+    "manifests/config.pp": "4b02205e62ea385af85c6a0c97a6671a",
+    "README": "5cb93c29a5c22b0a32c905758853e0c6",
+    "manifests/install.pp": "a215cb6dfaa78c08ee38d75a2c3e63ea",
+    "tests/init.pp": "6b34827ac4731829c8a117f0b3fb8167"
+  },
+  "description": "UNKNOWN",
+  "types": [
+
+  ],
+  "summary": "UNKNOWN",
+  "author": "site",
+  "name": "site-mysql",
+  "dependencies": [
+
+  ]
+}
